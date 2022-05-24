@@ -1,1 +1,1 @@
-# flask_example
+# flask_template
